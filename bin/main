@@ -8,7 +8,7 @@ const version = require("../package.json").version;
 
 program
   // 配置脚手架名称
-  .name("yiran-cli")
+  .name("yr-cli")
   // 配置命令格式
   .usage(`<command> [option]`)
   // 配置版本号

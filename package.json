@@ -1,13 +1,22 @@
 {
-  "name": "yiran-cli",
-  "version": "1.0.0",
-  "description": "",
+  "name": "yiran-my-cli",
+  "version": "1.0.2",
+  "author": "yiran",
+  "description": "自用脚手架",
   "main": "index.js",
   "bin": {
-    "yiran-cli": "bin/main"
+    "yr-cli": "bin/main"
   },
-  "author": "zhengyicai",
-  "license": "ISC",
+  "homepage": "https://github.com/yirandidi/yiran-cli",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yirandidi/yiran-cli"
+  },
+  "bugs": {
+    "url": "https://github.com/yirandidi/yiran-cli/issues",
+    "email": "239559238@qq.com"
+  },
+  "license": "MIT",
   "dependencies": {
     "axios": "^0.27.2",
     "chalk": "4",
