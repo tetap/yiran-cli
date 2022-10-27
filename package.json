@@ -1,19 +1,19 @@
 {
   "name": "yiran-my-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "yiran",
   "description": "自用脚手架",
   "main": "index.js",
   "bin": {
     "yr-cli": "bin/main"
   },
-  "homepage": "https://github.com/yirandidi/yiran-cli",
+  "homepage": "https://github.com/tetap/yiran-cli",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yirandidi/yiran-cli"
+    "url": "https://github.com/tetap/yiran-cli"
   },
   "bugs": {
-    "url": "https://github.com/yirandidi/yiran-cli/issues",
+    "url": "https://github.com/tetap/yiran-cli/issues",
     "email": "239559238@qq.com"
   },
   "license": "MIT",
