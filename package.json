@@ -1,6 +1,6 @@
 {
   "name": "yiran-my-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "yiran",
   "description": "自用脚手架",
   "main": "index.js",
